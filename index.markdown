@@ -3,6 +3,12 @@ layout: page
 title: Web Design 2017
 ---
 
+# Professor
+## Vitor Garcia
+[vitor.garciamoreira@gmail.com](mailto:vitor.garciamoreira@gmail.com)
+
+# Slides
+
 ## Slide 1 - Abertura
 
 > [Download do slide](https://vitorgarciamoreira.github.io/webdesign2017/arquivos/slide-1.pdf)
