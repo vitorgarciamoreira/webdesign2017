@@ -4,8 +4,7 @@ title: Web Design 2017
 ---
 
 ## Professor
-> Vitor Garcia
-> [vitor.garciamoreira@gmail.com](mailto:vitor.garciamoreira@gmail.com)
+> Vitor Garcia | [vitor.garciamoreira@gmail.com](mailto:vitor.garciamoreira@gmail.com)
 
 ## Slide 1 - Abertura
 
